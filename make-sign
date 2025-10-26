@@ -1,0 +1,1 @@
+make && ldid -Sentitlements.xml iMyToolbox && exit
