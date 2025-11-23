@@ -1,7 +1,7 @@
 /*
 * ViewController.m
 *
-* codded by iosmen (c) 2025
+* coded by iosmen (c) 2025
 * 
 * Mini iOS Toolbox App
 */
